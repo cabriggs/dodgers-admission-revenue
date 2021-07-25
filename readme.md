@@ -1,6 +1,6 @@
 ## Files included
 
-DSC630\_ex3.3.ipynb: : a Jupyter notebook containing the analysis and narrative.
+dodgers-admission-revenue.ipynb: : a Jupyter notebook containing the analysis and narrative.
 
 ## Background
 
